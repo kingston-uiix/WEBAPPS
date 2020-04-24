@@ -1,0 +1,66 @@
+body {
+  background-color: #cccccc;
+}
+
+header {
+  background-color: #009879;
+  font-family: Verdana, Geneva, sans-serif;
+}
+
+header .site-title {
+  font-family: gugi;
+}
+
+.table-dark {
+  color: #fff;
+  background-color: #009879;
+}
+
+a {
+  color: #ffffff;
+  text-decoration: none;
+  background-color: transparent;
+}
+
+.h1,
+h1 {
+  font-size: 2.5rem;
+  padding-top: 1rem;
+}
+.container .dropdown-item {
+  font-size: 1.2rem;
+  color: rgb(0, 0, 0);
+}
+.container .dropdown-toggle {
+  font-size: 1.2rem;
+  color: rgb(255, 255, 255);
+}
+
+.d-flex button {
+  margin: 1.5em 0.5em;
+  padding: 0.3em 1.4em;
+}
+
+.d-flex table {
+  margin: 1em 10em;
+}
+
+table .btnedit {
+  color: lightsalmon;
+  cursor: pointer;
+}
+
+table.thead {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.success {
+  background-color: lightgreen;
+  padding: 1em;
+}
+
+.error {
+  background-color: tomato;
+  padding: 1em;
+}
